@@ -117,16 +117,15 @@ Cat 🐱 or Dog 🐶 with confidence score
 + Deploy the model on cloud
 
 # 👩‍💻 Author
-**Tanvi Barve
-Bachelor of Computer Science (BCS)
-Aspiring Data Scientist | Machine Learning Enthusiast**
++ **Tanvi Barve**
++ **Aspiring Data Scientist | Machine Learning Enthusiast**
 
 # 📜 License
 
 This project is created for educational purposes.
 You are free to use, modify, and distribute it.
 
-# ⭐ If you like this project, don’t forget to star the repository!
+### ⭐ If you like this project, don’t forget to star the repository!
 
 
 
